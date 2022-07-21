@@ -1,8 +1,8 @@
-TIM2 Mode and Configyration
-Clock Source: Internal Clock
-Chnnel1: PWM Generation CH1
-Parameter Setting
-Counter Perion: 4095
+TIM2 Mode and Configyration\n
+Clock Source: Internal Clock\n
+Chnnel1: PWM Generation CH1\n
+Parameter Setting\n
+Counter Perion: 4095\n
 
 ADC1 - IN6, IN7
 ADC_Settings
